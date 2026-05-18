@@ -1,58 +1,31 @@
-\# Sistema de Cadastro de Veículos
+# 🚗 Sistema de Cadastro de Veículos
 
+Sistema de gerenciamento de veículos desenvolvido em Java, com suporte a cadastro de carros e motos via terminal.
 
+## 📋 Funcionalidades
 
-Sistema de gerenciamento de veículos desenvolvido em Java,
+- Cadastrar carros e motos
+- Buscar veículos por marca, modelo, placa, cor e ano
+- Remover veículos com deslocamento de array
+- Validação de placa duplicada
+- Visualizar total de veículos cadastrados
 
-com suporte a cadastro de carros e motos.
+## 🛠️ Tecnologias
 
+- Java
+- Scanner (entrada de dados via console)
 
+## ▶️ Como executar
 
-\## Funcionalidades
+1. Clone o repositório
+2. Abra no IntelliJ IDEA
+3. Execute a classe `ProjetoCadastroDeVeiculos`
 
+## 📚 Aprendizados aplicados
 
-
-\- Cadastrar carros e motos
-
-\- Buscar veículos por marca, modelo, placa, cor e ano
-
-\- Remover veículos
-
-\- Visualizar total de veículos cadastrados
-
-
-
-\## Tecnologias
-
-
-
-\- Java
-
-\- Scanner (entrada de dados via console)
-
-
-
-\## Como executar
-
-
-
-1\. Clone o repositório
-
-2\. Abra no IntelliJ IDEA
-
-3\. Execute a classe `ProjetoCadastroDeVeiculos`
-
-
-
-\## Aprendizados aplicados
-
-
-
-\- Arrays e manipulação de dados
-
-\- Estruturas condicionais e de repetição
-
-\- Menus interativos com Scanner
-
-\- Lógica de busca e remoção em arrays
-
+- Arrays e manipulação de dados
+- Estruturas condicionais e de repetição
+- Menus interativos com Scanner
+- Lógica de busca e remoção em arrays com deslocamento
+- Tratamento de exceções com `try/catch`
+- Validação de dados duplicados
