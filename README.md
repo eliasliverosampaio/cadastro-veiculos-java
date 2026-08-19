@@ -1,10 +1,10 @@
 # 🚗 Sistema de Cadastro de Veículos
 
-Sistema de gerenciamento de veículos desenvolvido em Java, com suporte a cadastro de carros e motos via terminal.
+Sistema de gerenciamento de veículos desenvolvido em Java, com suporte a cadastro de carros via terminal.
 
 ## 📋 Funcionalidades
 
-- Cadastrar carros e motos
+- Cadastrar carros
 - Buscar veículos por marca, modelo, placa, cor e ano
 - Remover veículos com deslocamento de array
 - Validação de placa duplicada
